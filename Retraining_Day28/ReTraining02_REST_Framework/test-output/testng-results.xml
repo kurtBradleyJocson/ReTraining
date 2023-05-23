@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-23T11:22:08 PST" name="Default suite" finished-at="2023-05-23T11:22:14 PST" duration-ms="6146">
+    <groups>
+    </groups>
+    <test started-at="2023-05-23T11:22:08 PST" name="Default test" finished-at="2023-05-23T11:22:14 PST" duration-ms="6146">
+      <class name="testcases.TestCase01">
+        <test-method signature="validLoginTest()[pri:1, instance:testcases.TestCase01@18df8434]" started-at="2023-05-23T11:22:08 PST" name="validLoginTest" finished-at="2023-05-23T11:22:12 PST" duration-ms="4257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method signature="invalidLoginTest()[pri:2, instance:testcases.TestCase01@18df8434]" started-at="2023-05-23T11:22:12 PST" name="invalidLoginTest" finished-at="2023-05-23T11:22:14 PST" duration-ms="1546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:testcases.TestCase01@18df8434]" started-at="2023-05-23T11:22:14 PST" name="endTest" finished-at="2023-05-23T11:22:14 PST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- testcases.TestCase01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
